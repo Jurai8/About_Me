@@ -7,7 +7,7 @@
 - Currently working on my biggest project: A simple langauge learning app
 - Right now I mostly use: js (react)
   
-## Languages I've learnt through courses: 
+## Languages I've learnt: 
 - C, Py, SQL, JS
 
 
