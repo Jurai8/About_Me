@@ -11,4 +11,6 @@
 - C, Py, SQL, JS
 
 
-Let's play a game of chess some time
+Let's play a game of chess some time:
+
+https://www.chess.com/member/charles7467
